@@ -1,4 +1,4 @@
-# Traffic_light_controller_Synthesis
+# EXP6 : Traffic Light Controller -Synthesize the Gate Level Netlist and tabulate Area and Power reports
 
 ## Aim:
 
@@ -38,12 +38,20 @@ The Liberty files are present in the library path,
 
 • Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist.
 
-Synthesis RTL Schematic :
+## Synthesis RTL Schematic :
 
-Area report:
+![WhatsApp Image 2024-11-21 at 11 52 49_c6191b12](https://github.com/user-attachments/assets/488f1cb1-b774-4c18-801c-47757a346533)
 
-Power Report:
 
-Result:
+## Area report:
+![WhatsApp Image 2024-11-21 at 11 52 49_0ddf3b2e](https://github.com/user-attachments/assets/0f9ec4a0-bd8f-4e48-bfd4-6233ab4a6b1e)
+
+
+## Power Report:
+
+![WhatsApp Image 2024-11-21 at 11 52 50_485b7736](https://github.com/user-attachments/assets/9ad0c1e7-bb62-4d0e-a8b6-8b0b37c8730f)
+
+
+## Result:
 
 The generic netlist of Traffic Light Controller has been created, and area, power reports have been tabulated and generated using Genus.
